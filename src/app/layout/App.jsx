@@ -7,6 +7,8 @@ class App extends Component {
         <h1>Re-vents</h1>
         <h1>Re-vents</h1>
         <h1>Re-vents</h1>
+        <h1>Re-vents</h1>
+        <h1>Re-vents</h1>
        
       </div>
     );
